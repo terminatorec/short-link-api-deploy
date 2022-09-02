@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.557a8bc2.css",
-    "main.js": "/react-gh-pages/static/js/main.bbc8eda0.js",
-    "static/js/787.33165842.chunk.js": "/react-gh-pages/static/js/787.33165842.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.557a8bc2.css.map": "/react-gh-pages/static/css/main.557a8bc2.css.map",
-    "main.bbc8eda0.js.map": "/react-gh-pages/static/js/main.bbc8eda0.js.map",
-    "787.33165842.chunk.js.map": "/react-gh-pages/static/js/787.33165842.chunk.js.map"
+    "main.css": "/short-link-api-deploy/static/css/main.557a8bc2.css",
+    "main.js": "/short-link-api-deploy/static/js/main.cffcb014.js",
+    "static/js/787.33165842.chunk.js": "/short-link-api-deploy/static/js/787.33165842.chunk.js",
+    "index.html": "/short-link-api-deploy/index.html",
+    "main.557a8bc2.css.map": "/short-link-api-deploy/static/css/main.557a8bc2.css.map",
+    "main.cffcb014.js.map": "/short-link-api-deploy/static/js/main.cffcb014.js.map",
+    "787.33165842.chunk.js.map": "/short-link-api-deploy/static/js/787.33165842.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.557a8bc2.css",
-    "static/js/main.bbc8eda0.js"
+    "static/js/main.cffcb014.js"
   ]
 }
