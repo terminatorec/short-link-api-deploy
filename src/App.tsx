@@ -1,6 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
-import { Counter } from "./features/counter/Counter";
 import "./App.css";
 import { BrowserRouter, HashRouter, Route, Routes } from "react-router-dom";
 import Login__page from "./pages/Login__page";
@@ -25,6 +23,7 @@ function App() {
 					<Route path="/login" element={<Login__page />} />
 					<Route path="/register" element={<Register__page />} />
 					<Route path="/statistics" element={<Statistic__page />} />
+					<Route path="*" element={<Redirect />} />
 				</Routes>
 			</AuthContext.Provider>
 		</HashRouter>
