@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+## Welcome
+In this repository you can see the frontend to the test task for the Hex.team vacancy.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
+You can see the deployed application on the page 
+https://terminatorec.github.io/short-link-api-deploy/#/home
+
+
+
 
 ## Available Scripts
 
